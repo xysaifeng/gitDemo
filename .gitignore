@@ -1,9 +1,13 @@
-node_modules/
+node_module/
 
-*.txt
+#.txt
 
-.gitignore
+#*.gitignore
 
-!a.txt
+#!a.txt
 
 src/
+aaa/
+*.properties
+
+#!a.properties
