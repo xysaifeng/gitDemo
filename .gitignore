@@ -3,3 +3,7 @@ node_modules/
 *.txt
 
 .gitignore
+
+!a.txt
+
+src/
