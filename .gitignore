@@ -7,7 +7,10 @@ node_modules/
 #!a.txt
 
 src/
+bbb/
 aaa/
 *.properties
 
 #!a.properties
+
+.gitignore
